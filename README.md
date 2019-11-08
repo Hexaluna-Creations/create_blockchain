@@ -1,2 +1,3 @@
-# create_blockchain
-Code for blockchain creation posts
+# Create a Blockchain in Go
+
+Code examples accompanying posts
